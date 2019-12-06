@@ -1,0 +1,6 @@
+echo "#akinwale_ayomi ">>README. md
+git init
+git add README. md
+git commit_m"first commit "
+git remote add origin http:\\github.Com\akinwale 240\akinwale_ayomi. git
+git push_u origin master
